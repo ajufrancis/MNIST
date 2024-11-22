@@ -1,0 +1,9 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore model files
+model_*.pt
+
+# Ignore virtual environments
+venv/
